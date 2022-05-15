@@ -1,5 +1,6 @@
 ## ```"Decentralized Photo Social Media."```
 Networks: Ganache, Ropsten Test Network
+
 Steps
 * `npm install`
 * `truffle compile`
